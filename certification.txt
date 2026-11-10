@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the quran13 1.0
+---------------------------------------------------
+
+app_name - 						quran13
+app_alias - 					quran13
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Al Madinah al Munawwarah
+app_author_country - 			Saudi Arabia
+app_password - 					epZyz5rFJ6Ii
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Tuesday 10th of November 2026 04:58:38 AM
+
+https://webintoapp.com
+---------------------------------------------------
+
